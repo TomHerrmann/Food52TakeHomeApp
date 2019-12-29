@@ -1,0 +1,14 @@
+{
+  "name": "four_highest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fourHighest.jest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
