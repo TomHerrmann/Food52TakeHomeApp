@@ -1,3 +1,13 @@
+/**
+ * ***********************************
+ *
+ * @author Tom Herrmann
+ * @date 12/26/2019
+ * @description A program that lets two players face off in a game of tic-tac-toe.
+ *
+ * ***********************************
+ */
+
 // VARIABLES
 
 // set mutable currentPlayer variable to dictate which value is placed in a tile
